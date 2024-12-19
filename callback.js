@@ -16,6 +16,7 @@
 function greeting(greetingHandler){
     console.log(greetingHandler())
 }
+
 function greetingHandler(){
     console.log('good morning')
 
