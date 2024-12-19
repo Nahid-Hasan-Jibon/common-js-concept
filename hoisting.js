@@ -17,7 +17,7 @@ function print5(){
     console.log('inside',5)
 }
 
-//  but function expression
+//  but function expression 
 
 const print10= function(){
     console.log('inside print' , 10)
